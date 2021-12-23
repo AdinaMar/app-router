@@ -1,3 +1,6 @@
+A simple page web to practice and get more familiar with react v6 routers
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
